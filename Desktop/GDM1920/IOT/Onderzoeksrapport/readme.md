@@ -1,0 +1,3 @@
+Intergrated circuit:
+
+Een integrated circuit of geïntregeerde schakeling is een samenstelling van verschillende elektrische componenten (bv transistoren) op een enkel stuk halfgeleidend materiaal (meestal silicium). Een groter integrated circuit met veel componenten noemt men een chip of microchip. Integrated circuits zijn tegenwoordig te vinden in alle elektronische apparaten van enige complexiteit het zijn de bouwstenen van de digitale wereld. 
